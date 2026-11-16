@@ -1,0 +1,7 @@
+# Reusable panel example group 2 | Functional trajectories combine new difficulty and task recovery
+
+These A–H examples use the input contract described in INPUTS.md. The article's main figures use the complete production source in Reproducibility_Code.zip.
+
+A-C, Task-specific observed proportions at two previous living interviews, the fracture-reporting interview and two later living interviews in HRS, ELSA and CHARLS. Denominators vary by visit and accompany the estimates. D-F, Joint frequencies of newly difficult and resolved tasks between reporting and the next observed interview among 473 HRS, 138 ELSA and 134 CHARLS cases. Circle area is proportional to the square root of the record fraction; three inset circles define the size scale. G, Probability of multiple later difficulties by reporting burden. H, Probability of the identical task pattern by reporting burden. The paired panels describe observed survivors. Task colors in A-C are blue for dressing, orange for eating, green for bed transfer and purple for toileting. Cohort colors in G-H are blue for HRS, orange for ELSA and green for CHARLS. All data axes measure 46 by 40 mm.
+
+Source data: `Figure2_persistence.csv`. Panels A-C retain all 20 task-by-visit estimates per cohort. Panels D-F retain the full new-difficulty and recovery frequency table. Panels G-H retain the five reporting-burden groups and their denominators.
